@@ -1,4 +1,4 @@
-package com.oijusti.firebaseuiauth;
+package com.rnfirebaseuiauth;
 
 import android.app.Activity;
 import android.content.Context;

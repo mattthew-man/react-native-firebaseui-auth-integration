@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
   s.name                   = 'react-native-firebaseui-auth'
   s.version                = version
   s.summary                = 'Easy login with FirebaseUi Auth'
-  s.homepage               = 'https://github.com/oijusti/react-native-firebaseui-auth'
+  s.homepage               = 'https://github.com/your-org/react-native-firebaseui-auth'
   s.license                = package['license']
-  s.author                 = 'Oscar Justi <oijustisoft@gmail.com>'
+  s.author                 = 'react-native-firebaseui-auth maintainers'
   s.platforms              = { :ios => '9.0' }
-  s.source                 = { :git => 'https://github.com/oijusti/react-native-firebaseui-auth.git', :tag => "v#{version}" }
+  s.source                 = { :git => 'https://github.com/your-org/react-native-firebaseui-auth.git', :tag => "v#{version}" }
   s.source_files           = 'ios/*.{h,m}'
   s.dependency 'React'
   s.dependency 'FirebaseAnonymousAuthUI'

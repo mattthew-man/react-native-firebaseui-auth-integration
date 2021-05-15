@@ -1,5 +1,5 @@
 
-package com.oijusti.firebaseuiauth;
+package com.rnfirebaseuiauth;
 
 import java.util.Arrays;
 import java.util.Collections;

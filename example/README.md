@@ -1,3 +1,3 @@
 ## Example Project
 
-Download example from [react-native-firebaseui-auth-example](https://github.com/oijusti/react-native-firebaseui-auth-example)
+Download example from your forked example app repository (recommended) or run the `example/` app in this workspace.
